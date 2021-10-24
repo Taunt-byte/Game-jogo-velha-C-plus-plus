@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// É bem parecido com C mesmo //
 
 void tabuleiro(char casas2[3][3])
 {
